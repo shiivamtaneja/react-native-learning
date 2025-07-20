@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0635fd22-c0d4-45c0-91f3-7ffa0b702d58"
+      }
+    },
+    "owner": "shiiv"
   }
 }
